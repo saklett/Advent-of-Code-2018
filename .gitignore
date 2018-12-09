@@ -1,0 +1,7 @@
+# Spark
+spark-warehouse/
+derby.log
+metastore_db/
+
+# Maven
+log/
